@@ -1,4 +1,4 @@
-# Flower maze
+# Moonshot
 
 This is the source code for the game Moonshot made in Racket.
 
