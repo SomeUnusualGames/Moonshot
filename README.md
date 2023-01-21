@@ -6,7 +6,7 @@ Your objective is to destroy the moon before it destroys you.
 
 Watch on Youtube (click the image):
 
-[![Watch on Youtube](https://img.youtube.com/vi/-WkSSbbO8tk/0.jpg)](https://www.youtube.com/watch?v=-WkSSbbO8tk)
+[![Watch on Youtube](https://img.youtube.com/vi/-WkSSbbO8tk/maxresdefault.jpg)](https://www.youtube.com/watch?v=-WkSSbbO8tk)
 
 #### Language used
 
